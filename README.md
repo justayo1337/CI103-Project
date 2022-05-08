@@ -21,3 +21,7 @@ Dubem Okoye - do123@drexel.edu
 Ayomide Adetunji - aa4449@drexel.edu
 
 ---
+
+
+
+NOTE: This is a project done with three other team members for a Computing and Informatics Class

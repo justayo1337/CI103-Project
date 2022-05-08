@@ -14,7 +14,7 @@
 **For Mac** -> [here](https://drive.google.com/drive/folders/1yt1MzdwQMhNQACJpm_XXtBQJfherdxie?usp=sharing)
 
 ## Cloning from this repository
-- First run `git clone https://gitlab.cci.drexel.edu/fds21/70masterminds/super-awesome-checkers.git`
+- First run `git clone https://github.com/justayo1337/CI103-Project.git`
 - Install the python requirements `pip install -r requirements.txt`
 - Run the checkers file to start the game `python checkers.py` or `python3 checkers.py`
 

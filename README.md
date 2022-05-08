@@ -1,7 +1,6 @@
 # Super Awesome Checkers
 
 [Link to README for CLI](https://github.com/justayo1337/CI103-Project/blob/main/super-awesome-checkers/code/CLI/README.md)\
-[Link to README for GUI](https://github.com/justayo1337/CI103-Project/blob/main/super-awesome-checkers/code/CLI/README.md)
 
 
 # System Requirements

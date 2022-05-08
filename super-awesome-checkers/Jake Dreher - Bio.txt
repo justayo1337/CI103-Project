@@ -1,0 +1,4 @@
+Jake Dreher is majoring in Computer Science at Drexel University.
+He programs mostly in Python, but can program in Java and various C languages(and many more).
+He enjoys analyzing datasets from kaggle.com using the pandas, numpy, and matplotlib libraries.
+

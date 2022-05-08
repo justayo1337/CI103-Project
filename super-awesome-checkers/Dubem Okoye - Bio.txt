@@ -1,0 +1,3 @@
+My name is Dubem Okoye and I am a Freshman studying Computer Science.
+I developed an interest in computer science in elementary school and my interest grew through middle school and high school.
+I can program in Python as well as Java, and am very intrigued by impact of Artificial Intelligence on many industries and the possibilities of what it could do in the future.

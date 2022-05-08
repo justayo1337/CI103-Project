@@ -1,0 +1,3 @@
+Ayomide Adetunji is a Cybersecurity Major at Drexel University. 
+He programs mostly in the Python and C languages. 
+He enjoys playing CTFs and penetration testing competitions to hone his skills and spends a lot of time practicing on TryHackMe.com 
